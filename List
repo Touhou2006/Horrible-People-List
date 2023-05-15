@@ -1,15 +1,3 @@
-
-untrust: 	76561198016145959
-Khoskenn: 76561198042860245
-Weespin: 76561198043587256
-bjorn: 76561198046884177
-doffy: 76561198053843750
-unknown: 76561198054843834
-ceryel: 	76561198055822031
-EGH Wannabe: 76561198126891985
-surface: 76561198058609207
-retronium: 76561198059668125
-noob: 76561198061311885
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"players": [
