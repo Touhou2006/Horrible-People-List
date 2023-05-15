@@ -1,17 +1,4990 @@
-BlueInsane: 76561197961651636
-riplegecy: 76561197963782350
-joe biden: 76561197967505979
-[Unknown]: 76561197967505979
-bong rips for jesus: 76561198010655476
-sef: 76561198010991875
-untrust: 	76561198016145959
-Khoskenn: 76561198042860245
-Weespin: 76561198043587256
-bjorn: 76561198046884177
-doffy: 76561198053843750
-unknown: 76561198054843834
-ceryel: 	76561198055822031
-EGH Wannabe: 76561198126891985
-surface: 76561198058609207
-retronium: 76561198059668125
-noob: 76561198061311885
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"players": [
+  {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Riplegacy",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:3516622]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Joe Biden",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:7240251]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bong Rips For Jesus",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:50389748]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "serf",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:50726147]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "untrust",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:55880231]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Khoskenn",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:82594517]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Weespin",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:83321528]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doffy",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:93578022]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:94578106]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "egh wannabe",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:166626257]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Surface",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:98343479]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Retronium",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:99402397]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "noob",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:101046157]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BlueInsane",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:1385908]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BlueInsane",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:1385908]"
+      {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BlueInsane",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:1385908]"
+  {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BlueInsane",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:1385908]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":D",
+				"time": 1648333887
+			},
+			"steamid": "[U:1:305835]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Blathers\r\r",
+				"time": 1649475684
+			},
+			"steamid": "[U:1:1793168]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eduu",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:3121649]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Blueinsane",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:9695033]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "N0_Camping4U`",
+				"time": 1649384242
+			},
+			"steamid": "[U:1:11291242]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jogn",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:17353409]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "unmaker",
+				"time": 1649555498
+			},
+			"steamid": "[U:1:38128505]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dirk's Dead",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:65602717]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dashie",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:66728419]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dawgone",
+				"time": 1648247901
+			},
+			"steamid": "[U:1:71727078]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "REPENT, THE END IS NIGH",
+				"time": 1648178852
+			},
+			"steamid": "[U:1:71987203]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TrExLeR",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:84308065]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648686542
+			},
+			"steamid": "[U:1:85479401]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "arg",
+				"time": 1649559302
+			},
+			"steamid": "[U:1:96100467]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Casual",
+				"time": 1649559304
+			},
+			"steamid": "[U:1:97459588]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "league of legends hater",
+				"time": 1648690169
+			},
+			"steamid": "[U:1:99101475]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "snow",
+				"time": 1648952138
+			},
+			"steamid": "[U:1:109515844]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648700542
+			},
+			"steamid": "[U:1:120227774]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Harpoon Dad.",
+				"time": 1648167850
+			},
+			"steamid": "[U:1:120267104]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AngelicDragon",
+				"time": 1648859763
+			},
+			"steamid": "[U:1:122040705]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dr Hotel Mario",
+				"time": 1648953430
+			},
+			"steamid": "[U:1:127341616]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HNDRXX",
+				"time": 1648511967
+			},
+			"steamid": "[U:1:128001456]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blueinsane",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:146581142]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FaZe Jeffrey Epstein",
+				"time": 1648518175
+			},
+			"steamid": "[U:1:155542526]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Goblin Caught on Video",
+				"time": 1649036801
+			},
+			"steamid": "[U:1:158693987]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2736\u2736",
+				"time": 1648686638
+			},
+			"steamid": "[U:1:162052531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198123332927",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:163067199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gunslinger",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:164589734]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648782547
+			},
+			"steamid": "[U:1:165584983]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Agni",
+				"time": 1648690096
+			},
+			"steamid": "[U:1:167694528]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "asian titties",
+				"time": 1648241038
+			},
+			"steamid": "[U:1:172736715]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "theownmedic",
+				"time": 1648514379
+			},
+			"steamid": "[U:1:178399699]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "breeze",
+				"time": 1649021546
+			},
+			"steamid": "[U:1:183150229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\udb40\udc73\u2067\u2067 Trisynine",
+				"time": 1648178468
+			},
+			"steamid": "[U:1:183538873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Max Payne",
+				"time": 1648412572
+			},
+			"steamid": "[U:1:188949814]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"exploiter",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "The Evil Fun Police",
+				"time": 1649643501
+			},
+			"steamid": "[U:1:189852127]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FaZe Ted Kaczynski",
+				"time": 1648518168
+			},
+			"steamid": "[U:1:198090436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fly with a shotgun",
+				"time": 1648952188
+			},
+			"steamid": "[U:1:199327298]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SunnyD-Pad",
+				"time": 1649643601
+			},
+			"steamid": "[U:1:207152741]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Bo'",
+				"time": 1648412754
+			},
+			"steamid": "[U:1:210397038]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u271e GamerBaron57 \u271e",
+				"time": 1649038280
+			},
+			"steamid": "[U:1:211431503]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Efffffffyyyyyyyy",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:216210594]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "some black guy",
+				"time": 1648247378
+			},
+			"steamid": "[U:1:216799598]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sam",
+				"time": 1649386650
+			},
+			"steamid": "[U:1:233574275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Average TF2 Sweat",
+				"time": 1648765948
+			},
+			"steamid": "[U:1:240321189]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ryogi is washed",
+				"time": 1648324440
+			},
+			"steamid": "[U:1:241408247]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649477103
+			},
+			"steamid": "[U:1:244346019]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jor",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:253656939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pootis_HappyTimes.14",
+				"time": 1649021811
+			},
+			"steamid": "[U:1:254958977]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "If i'm bad, then what am I. LOL",
+				"time": 1648246602
+			},
+			"steamid": "[U:1:284160848]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "snowy",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:290030202]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rudal",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:294678210]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "goblin mode",
+				"time": 1648571672
+			},
+			"steamid": "[U:1:296916250]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tyler \"Ninja Fortnite\" Blevins",
+				"time": 1648241056
+			},
+			"steamid": "[U:1:297437060]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Going insane",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:298573198]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Joye",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:304256835]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I make 600 grand a year.",
+				"time": 1649559298
+			},
+			"steamid": "[U:1:311374190]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fat",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:316313865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BeachBall",
+				"time": 1648951900
+			},
+			"steamid": "[U:1:321720346]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pootis extreme",
+				"time": 1648176305
+			},
+			"steamid": "[U:1:340693976]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Giuseppe Ottaviani",
+				"time": 1648332885
+			},
+			"steamid": "[U:1:341169105]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u2122",
+				"time": 1649306140
+			},
+			"steamid": "[U:1:342988259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hippo",
+				"time": 1648267361
+			},
+			"steamid": "[U:1:349416173]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DoesBotter",
+				"time": 1648174562
+			},
+			"steamid": "[U:1:352902349]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Trickster",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:377343629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "johan.aguilar.9754",
+				"time": 1649624566
+			},
+			"steamid": "[U:1:380509085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tilar",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:384450208]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Stovore",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:386349775]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "coconutcarl97",
+				"time": 1648686656
+			},
+			"steamid": "[U:1:392494359]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Grand Theft Wizards X",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:394080314]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Maurve",
+				"time": 1648241442
+			},
+			"steamid": "[U:1:399648697]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649637332
+			},
+			"steamid": "[U:1:402045240]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hippo friend",
+				"time": 1648267355
+			},
+			"steamid": "[U:1:402365830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NK",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:419193035]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "c0Ve",
+				"time": 1649640837
+			},
+			"steamid": "[U:1:421193738]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649631738
+			},
+			"steamid": "[U:1:427331541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "D:",
+				"time": 1648247396
+			},
+			"steamid": "[U:1:431461262]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Maxwell",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:442138772]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "seb",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:443909144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pablo_DonkeyDong_2007",
+				"time": 1648612045
+			},
+			"steamid": "[U:1:445645389]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "DirtyDan",
+				"time": 1648244011
+			},
+			"steamid": "[U:1:447773049]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Esoteric VVvvd VVizard",
+				"time": 1649624419
+			},
+			"steamid": "[U:1:453528742]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "your grandpa is the spy",
+				"time": 1648238580
+			},
+			"steamid": "[U:1:454457652]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "stooger",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:459589212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "starry",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:464248769]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "https://discord.gg/MFwry94Wcz",
+				"time": 1649643461
+			},
+			"steamid": "[U:1:468864353]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648756749
+			},
+			"steamid": "[U:1:469376498]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HippoSniffer84",
+				"time": 1648267752
+			},
+			"steamid": "[U:1:478763128]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "flyingbaconator26",
+				"time": 1648174504
+			},
+			"steamid": "[U:1:482385112]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lima Beans",
+				"time": 1648765225
+			},
+			"steamid": "[U:1:836146713]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bambi",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:837355471]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rae",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:838766125]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "umbukuu",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:844365140]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rusa",
+				"time": 1649381467
+			},
+			"steamid": "[U:1:848468274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SONIC",
+				"time": 1649454759
+			},
+			"steamid": "[U:1:850446651]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "JooNah__",
+				"time": 1648782512
+			},
+			"steamid": "[U:1:851952884]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Swonk",
+				"time": 1649559316
+			},
+			"steamid": "[U:1:859134916]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "omegatronic",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:863409855]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "3r.end",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:870988998]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Your Creepy Uncle Kermit",
+				"time": 1648766120
+			},
+			"steamid": "[U:1:878278876]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "viln",
+				"time": 1648511722
+			},
+			"steamid": "[U:1:884769659]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chloe",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:887585881]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ben Herr (REAL)",
+				"time": 1649557051
+			},
+			"steamid": "[U:1:891058659]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lamp",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:896814059]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "YAEGER",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:898965943]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Dale Fisher",
+				"time": 1649637035
+			},
+			"steamid": "[U:1:902641947]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "NonKosher",
+				"time": 1649636290
+			},
+			"steamid": "[U:1:906172954]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kysick",
+				"time": 1649306132
+			},
+			"steamid": "[U:1:906719509]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CYCLOLCYC",
+				"time": 1649038248
+			},
+			"steamid": "[U:1:909635751]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "alec",
+				"time": 1649385878
+			},
+			"steamid": "[U:1:912198240]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Laggy Demoknight",
+				"time": 1648518171
+			},
+			"steamid": "[U:1:919979527]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BigBrudda",
+				"time": 1648170804
+			},
+			"steamid": "[U:1:920177275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "very lucky demoman",
+				"time": 1648234084
+			},
+			"steamid": "[U:1:968825503]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Z\u03a3\u01ac\u04e8X",
+				"time": 1648175841
+			},
+			"steamid": "[U:1:972594997]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "III",
+				"time": 1648415807
+			},
+			"steamid": "[U:1:1016168698]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "A Chicken",
+				"time": 1648171094
+			},
+			"steamid": "[U:1:1017565288]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648780446
+			},
+			"steamid": "[U:1:1023436593]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648780983
+			},
+			"steamid": "[U:1:1023816500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649631585
+			},
+			"steamid": "[U:1:1023911763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "j0hn",
+				"time": 1648783013
+			},
+			"steamid": "[U:1:1026091053]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lol",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1047193547]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cthulhu's Sleeping Radio",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1050773144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "coms",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1057637851]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "watersause89_",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1058229237]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ENIX",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1059174291]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ashter",
+				"time": 1649109117
+			},
+			"steamid": "[U:1:1063911851]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tk :))",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1064388618]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648174181
+			},
+			"steamid": "[U:1:1070363780]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648170590
+			},
+			"steamid": "[U:1:1071470854]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648175935
+			},
+			"steamid": "[U:1:1071537796]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Fuck Nemo",
+				"time": 1648242093
+			},
+			"steamid": "[U:1:1071551271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Fuck Nemo",
+				"time": 1648177729
+			},
+			"steamid": "[U:1:1071610394]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648172681
+			},
+			"steamid": "[U:1:1071639856]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648177554
+			},
+			"steamid": "[U:1:1072987763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648170599
+			},
+			"steamid": "[U:1:1073108663]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1649649302
+			},
+			"steamid": "[U:1:1073147878]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Judepiter",
+				"time": 1649123389
+			},
+			"steamid": "[U:1:1090930639]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Osaka's Naughty Little Femboy",
+				"time": 1648174408
+			},
+			"steamid": "[U:1:1094682016]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "kenny\u2665",
+				"time": 1649640833
+			},
+			"steamid": "[U:1:1098960923]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "seb",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1100018322]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nah this alc bruh",
+				"time": 1649553790
+			},
+			"steamid": "[U:1:1101004880]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "god backwards",
+				"time": 1649559308
+			},
+			"steamid": "[U:1:1104364399]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Blue Snoop",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1105778191]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Flippy_________________________",
+				"time": 1648780816
+			},
+			"steamid": "[U:1:1111408014]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ascendedsion",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1112876552]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the one",
+				"time": 1649557046
+			},
+			"steamid": "[U:1:1116660385]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Don't insult Dhar Mann",
+				"time": 1648947932
+			},
+			"steamid": "[U:1:1118486754]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648690516
+			},
+			"steamid": "[U:1:1118803078]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649636291
+			},
+			"steamid": "[U:1:1118962252]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)www.myg0t.win",
+				"time": 1649556264
+			},
+			"steamid": "[U:1:1119133111]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kid Morbid",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1119394219]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hypnoticat",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1121225658]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hippo friend friend friend",
+				"time": 1648267358
+			},
+			"steamid": "[U:1:1123015002]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ARTE",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1123433589]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ntf2cuntsuPPort.cf\nH1TLER\n\n",
+				"time": 1649454835
+			},
+			"steamid": "[U:1:1123710122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Isaiah 12:2",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1124232257]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Peyton\u30c4",
+				"time": 1648527928
+			},
+			"steamid": "[U:1:1125803870]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "evan_is_sauce",
+				"time": 1649636785
+			},
+			"steamid": "[U:1:1126536655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)www.myg0t.win",
+				"time": 1649303250
+			},
+			"steamid": "[U:1:1128614259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649104775
+			},
+			"steamid": "[U:1:1128719605]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649100155
+			},
+			"steamid": "[U:1:1128876152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jules Winnfield",
+				"time": 1648512526
+			},
+			"steamid": "[U:1:1130495543]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BlackBoi\r\r",
+				"time": 1648173319
+			},
+			"steamid": "[U:1:1130618838]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DairyLogin\r\r",
+				"time": 1648169382
+			},
+			"steamid": "[U:1:1130797110]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ZeroSebastianLoz\r\r",
+				"time": 1649475840
+			},
+			"steamid": "[U:1:1131130152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ZeroImpact\r\r",
+				"time": 1649481674
+			},
+			"steamid": "[U:1:1131615046]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OxyGen_XX\r\r",
+				"time": 1648169782
+			},
+			"steamid": "[U:1:1131951259]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649629685
+			},
+			"steamid": "[U:1:1132957421]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PanterA\r\r",
+				"time": 1648173327
+			},
+			"steamid": "[U:1:1133284614]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DeadErebus\r\r",
+				"time": 1648168836
+			},
+			"steamid": "[U:1:1133333353]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "=WL= \u2623\u03b7\u0454\u043c\u0454\u0455\u03b9\u0455 \u0f3a\u0f3b\r\r",
+				"time": 1648177727
+			},
+			"steamid": "[U:1:1133395216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud83d\udc09 Tenshi \ud83d\udc09\r\r",
+				"time": 1648171377
+			},
+			"steamid": "[U:1:1133470344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GhostlyTF2",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1133676235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Broes before toes",
+				"time": 1649636772
+			},
+			"steamid": "[U:1:1136691948]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "42\u202c\r",
+				"time": 1648325143
+			},
+			"steamid": "[U:1:1139823754]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NinjamasterXD34\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1139959716]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "iRz\u200frOmega\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1139979151]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BRISTL3\u202c\r",
+				"time": 1648571801
+			},
+			"steamid": "[U:1:1139979295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mmrochis\u202c\r",
+				"time": 1648516568
+			},
+			"steamid": "[U:1:1140009867]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "endr\u200fo\r",
+				"time": 1648860272
+			},
+			"steamid": "[U:1:1140010173]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Pootis Punis\u200fher\r",
+				"time": 1648755742
+			},
+			"steamid": "[U:1:1140013029]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "iinob\u202c\r",
+				"time": 1648174893
+			},
+			"steamid": "[U:1:1140032167]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Pootis Pun\u200fisher\r",
+				"time": 1648755695
+			},
+			"steamid": "[U:1:1140071938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Heckingtons\u202c\r",
+				"time": 1648412553
+			},
+			"steamid": "[U:1:1140112405]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "There is 1 bot among us\u202c\r",
+				"time": 1648473476
+			},
+			"steamid": "[U:1:1140115750]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Microwave Enjoyer\u202c\r",
+				"time": 1648429463
+			},
+			"steamid": "[U:1:1140118438]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SepticZombie\u202c\r",
+				"time": 1648526950
+			},
+			"steamid": "[U:1:1140119846]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gloom\u202c\r",
+				"time": 1648572155
+			},
+			"steamid": "[U:1:1140154121]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fermite\u200f\r",
+				"time": 1648755695
+			},
+			"steamid": "[U:1:1140161030]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "alka\u202c\r",
+				"time": 1648528060
+			},
+			"steamid": "[U:1:1140284466]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hackdog375\u202c\r",
+				"time": 1648167721
+			},
+			"steamid": "[U:1:1140315212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "carcinoGeneticist\u202c\r",
+				"time": 1648173539
+			},
+			"steamid": "[U:1:1140339334]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Captain Osaka\u202c\r",
+				"time": 1648241832
+			},
+			"steamid": "[U:1:1140427736]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr\u200fSteve\r",
+				"time": 1648755705
+			},
+			"steamid": "[U:1:1140795903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "voyager1junonix\u202c\r",
+				"time": 1648248119
+			},
+			"steamid": "[U:1:1140848569]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "c\u200feryel\r",
+				"time": 1649479619
+			},
+			"steamid": "[U:1:1140857807]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "im bad at games :)\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1140871705]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "j S\u202c\r",
+				"time": 1648173526
+			},
+			"steamid": "[U:1:1140901939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "KFC Floppa\u202c\r",
+				"time": 1648521075
+			},
+			"steamid": "[U:1:1140902640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Crazyboy2625\u202c\r",
+				"time": 1648168177
+			},
+			"steamid": "[U:1:1140908939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)invader\u202c\r",
+				"time": 1648430327
+			},
+			"steamid": "[U:1:1140915263]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rippable Paper\u202c\r",
+				"time": 1648246152
+			},
+			"steamid": "[U:1:1140921953]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ommongen\u200fetc6.gregory11\r",
+				"time": 1649100157
+			},
+			"steamid": "[U:1:1140925263]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Person\u202c\r",
+				"time": 1648332508
+			},
+			"steamid": "[U:1:1140926092]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "spacexdragon.hydra\u202c\r",
+				"time": 1648473476
+			},
+			"steamid": "[U:1:1140954586]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CAN'T STOP. WON'T STOP.\u202c\r",
+				"time": 1648473476
+			},
+			"steamid": "[U:1:1140957613]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Macrohard\u202c\r",
+				"time": 1648572661
+			},
+			"steamid": "[U:1:1140989590]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DJ SPIT",
+				"time": 1648348372
+			},
+			"steamid": "[U:1:1140996455]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Schi\u200fzo Nue\r",
+				"time": 1648763632
+			},
+			"steamid": "[U:1:1141008201]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kennyb8\u200f5\r",
+				"time": 1649477100
+			},
+			"steamid": "[U:1:1141032935]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "iPhuck 10 \u00absingularity\u00bb\u202c\r",
+				"time": 1648473633
+			},
+			"steamid": "[U:1:1141055167]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DirtyDan\u202c\r",
+				"time": 1648244247
+			},
+			"steamid": "[U:1:1141068757]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Snow\u202c\r",
+				"time": 1648570956
+			},
+			"steamid": "[U:1:1141075178]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rahulneoma\u202c\r",
+				"time": 1648267600
+			},
+			"steamid": "[U:1:1141137098]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "g\u202c\r",
+				"time": 1648323972
+			},
+			"steamid": "[U:1:1141142431]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fidel Cashflo\u202c\r",
+				"time": 1648516196
+			},
+			"steamid": "[U:1:1141144748]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jkanoalexandero\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1141154349]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Beast\u202c\r",
+				"time": 1648572636
+			},
+			"steamid": "[U:1:1141174625]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Asesinu\r\r",
+				"time": 1648177550
+			},
+			"steamid": "[U:1:1143964618]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "recon",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1144367847]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Armando Barbosa",
+				"time": 1648951877
+			},
+			"steamid": "[U:1:1148605224]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e38",
+				"time": 1648519450
+			},
+			"steamid": "[U:1:1149070538]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoot shoot",
+				"time": 1649559300
+			},
+			"steamid": "[U:1:1149373272]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648179064
+			},
+			"steamid": "[U:1:1149427962]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648179062
+			},
+			"steamid": "[U:1:1149461969]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648434449
+			},
+			"steamid": "[U:1:1149507113]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648434446
+			},
+			"steamid": "[U:1:1149528352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1649303841
+			},
+			"steamid": "[U:1:1149552995]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648174990
+			},
+			"steamid": "[U:1:1149681673]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648243704
+			},
+			"steamid": "[U:1:1149701790]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648173200
+			},
+			"steamid": "[U:1:1149710867]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1649109808
+			},
+			"steamid": "[U:1:1149729865]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1649303838
+			},
+			"steamid": "[U:1:1149738232]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1649637786
+			},
+			"steamid": "[U:1:1149746464]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648945633
+			},
+			"steamid": "[U:1:1149749668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1649639173
+			},
+			"steamid": "[U:1:1149773843]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648179074
+			},
+			"steamid": "[U:1:1149785115]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648527880
+			},
+			"steamid": "[U:1:1149787555]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)default bot",
+				"time": 1648167636
+			},
+			"steamid": "[U:1:1149817583]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648171409
+			},
+			"steamid": "[U:1:1149854264]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)default bot",
+				"time": 1649556228
+			},
+			"steamid": "[U:1:1149855655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648241903
+			},
+			"steamid": "[U:1:1149867918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648241909
+			},
+			"steamid": "[U:1:1149871229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)default bot",
+				"time": 1648167582
+			},
+			"steamid": "[U:1:1149883708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648611060
+			},
+			"steamid": "[U:1:1149898191]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648174988
+			},
+			"steamid": "[U:1:1149911111]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648233293
+			},
+			"steamid": "[U:1:1149943903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1649556224
+			},
+			"steamid": "[U:1:1149974788]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648171506
+			},
+			"steamid": "[U:1:1149977454]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648167584
+			},
+			"steamid": "[U:1:1149991674]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648945631
+			},
+			"steamid": "[U:1:1149994633]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648174992
+			},
+			"steamid": "[U:1:1149999216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1649556229
+			},
+			"steamid": "[U:1:1150006937]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648241905
+			},
+			"steamid": "[U:1:1150016173]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648171502
+			},
+			"steamid": "[U:1:1150035121]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1649303529
+			},
+			"steamid": "[U:1:1150040228]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648233312
+			},
+			"steamid": "[U:1:1150059565]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648242086
+			},
+			"steamid": "[U:1:1150088049]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648242081
+			},
+			"steamid": "[U:1:1150093909]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648173202
+			},
+			"steamid": "[U:1:1150096093]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648242084
+			},
+			"steamid": "[U:1:1150124217]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648434451
+			},
+			"steamid": "[U:1:1150135587]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648243706
+			},
+			"steamid": "[U:1:1150140683]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648243708
+			},
+			"steamid": "[U:1:1150148521]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648173198
+			},
+			"steamid": "[U:1:1150182627]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(5)default bot",
+				"time": 1649109813
+			},
+			"steamid": "[U:1:1150258904]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648167633
+			},
+			"steamid": "[U:1:1150280420]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648167619
+			},
+			"steamid": "[U:1:1150346242]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "What nickname will you give me?",
+				"time": 1648238609
+			},
+			"steamid": "[U:1:1152252844]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "domino's ruined my lava cake",
+				"time": 1648238598
+			},
+			"steamid": "[U:1:1152312009]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Platiraum",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1152739020]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bored \r\n the j",
+				"time": 1649560244
+			},
+			"steamid": "[U:1:1160862481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tessi",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1161350435]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "espectra18 hellcase.com\r\r",
+				"time": 1648174288
+			},
+			"steamid": "[U:1:1163130522]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "uchias60\r\r",
+				"time": 1648169361
+			},
+			"steamid": "[U:1:1163285396]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Banned",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1165710999]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Professional Dipshit",
+				"time": 1649635652
+			},
+			"steamid": "[U:1:1166476953]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "neurodivergent minor",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1168291255]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "sneko",
+				"time": 1648267911
+			},
+			"steamid": "[U:1:1169954026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dy1an\u2764",
+				"time": 1648414650
+			},
+			"steamid": "[U:1:1170582096]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sakrui\u0e4a",
+				"time": 1648171731
+			},
+			"steamid": "[U:1:1173454612]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "calzone\u0e4a",
+				"time": 1648171737
+			},
+			"steamid": "[U:1:1173533387]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "S K",
+				"time": 1649478056
+			},
+			"steamid": "[U:1:1177296244]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cademcgurty G.E.W.P\r\r",
+				"time": 1648167721
+			},
+			"steamid": "[U:1:1177389820]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Player \u263b\r\r",
+				"time": 1648179123
+			},
+			"steamid": "[U:1:1177547593]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eso",
+				"time": 1649559313
+			},
+			"steamid": "[U:1:1178469693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tobias\r\r",
+				"time": 1648167721
+			},
+			"steamid": "[U:1:1179754117]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shrimp Alfredo\r\r",
+				"time": 1648168951
+			},
+			"steamid": "[U:1:1179811500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ichigo-Chan",
+				"time": 1648268450
+			},
+			"steamid": "[U:1:1180167522]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":3",
+				"time": 1648238636
+			},
+			"steamid": "[U:1:1181510947]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e36",
+				"time": 1648325005
+			},
+			"steamid": "[U:1:1184166482]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4bTRONIC",
+				"time": 1648337387
+			},
+			"steamid": "[U:1:1184265137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRO\u0e49NIC",
+				"time": 1648334112
+			},
+			"steamid": "[U:1:1184324172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e36MEGATRONIC",
+				"time": 1648949787
+			},
+			"steamid": "[U:1:1184383131]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648177770
+			},
+			"steamid": "[U:1:1184431862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e48MEGATRONIC",
+				"time": 1648430049
+			},
+			"steamid": "[U:1:1184496341]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONI\u0e37C",
+				"time": 1648435563
+			},
+			"steamid": "[U:1:1184546002]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONI\u0e35C",
+				"time": 1648334110
+			},
+			"steamid": "[U:1:1184562789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEG\u0e47ATRONIC",
+				"time": 1648430047
+			},
+			"steamid": "[U:1:1184693017]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cuyler",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1185214333]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "IvanYTPlay\r\r",
+				"time": 1648174895
+			},
+			"steamid": "[U:1:1186578487]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e4aGATRON\u0e48IC",
+				"time": 1648572831
+			},
+			"steamid": "[U:1:1187638538]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648178890
+			},
+			"steamid": "[U:1:1187897930]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e35RONIC",
+				"time": 1648178679
+			},
+			"steamid": "[U:1:1188015629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRON\u0e47IC",
+				"time": 1648411973
+			},
+			"steamid": "[U:1:1188578487]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e4a\u0e48RONIC",
+				"time": 1648756026
+			},
+			"steamid": "[U:1:1188797888]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e4dRONIC",
+				"time": 1648233903
+			},
+			"steamid": "[U:1:1188968541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kak\r\r",
+				"time": 1648175114
+			},
+			"steamid": "[U:1:1190309395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dorito\r\r",
+				"time": 1649481676
+			},
+			"steamid": "[U:1:1190318624]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "plat\r\r",
+				"time": 1648167721
+			},
+			"steamid": "[U:1:1190381151]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VGR\r\r",
+				"time": 1648173324
+			},
+			"steamid": "[U:1:1190387801]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)Gamer Burger AZAFF",
+				"time": 1649635647
+			},
+			"steamid": "[U:1:1190398728]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LastBornMango\r\r",
+				"time": 1648174500
+			},
+			"steamid": "[U:1:1190417160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "viper117\r\r",
+				"time": 1649479878
+			},
+			"steamid": "[U:1:1190449005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Joe",
+				"time": 1648180789
+			},
+			"steamid": "[U:1:1190461238]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "just.a.girl989\r\r",
+				"time": 1648174402
+			},
+			"steamid": "[U:1:1190490940]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pixler544\r\r",
+				"time": 1648178898
+			},
+			"steamid": "[U:1:1190516375]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Joe",
+				"time": 1648180993
+			},
+			"steamid": "[U:1:1190558084]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "JosserE\r\r",
+				"time": 1649475687
+			},
+			"steamid": "[U:1:1190624702]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "INVISIBLE\r\r",
+				"time": 1648167721
+			},
+			"steamid": "[U:1:1190626434]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "J0K3R\r\r",
+				"time": 1649481679
+			},
+			"steamid": "[U:1:1190868938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dariofdt\r\r",
+				"time": 1649481563
+			},
+			"steamid": "[U:1:1191258696]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Drink Your Prune Juice\r\r",
+				"time": 1648177248
+			},
+			"steamid": "[U:1:1192486585]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649641102
+			},
+			"steamid": "[U:1:1197133935]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649109807
+			},
+			"steamid": "[U:1:1197707441]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649103618
+			},
+			"steamid": "[U:1:1197730692]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649475681
+			},
+			"steamid": "[U:1:1197840270]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648943423
+			},
+			"steamid": "[U:1:1197982685]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649643676
+			},
+			"steamid": "[U:1:1197987459]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1649303209
+			},
+			"steamid": "[U:1:1198025822]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1648945629
+			},
+			"steamid": "[U:1:1198146744]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)www.myg0t.win",
+				"time": 1648782510
+			},
+			"steamid": "[U:1:1198147417]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Svantechnical\r\r",
+				"time": 1649475839
+			},
+			"steamid": "[U:1:1199758720]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr. Clootch\u0e4a",
+				"time": 1648171733
+			},
+			"steamid": "[U:1:1199926366]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648171705
+			},
+			"steamid": "[U:1:1200045556]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Schizophrenic Goblin |HM|",
+				"time": 1649037065
+			},
+			"steamid": "[U:1:1201144727]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e36",
+				"time": 1648178791
+			},
+			"steamid": "[U:1:1204765414]"
+		},
+		{
+			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "cute fluffy pony",
+				"time": 1649639839
+			},
+			"steamid": "[U:1:1205426584]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jor2",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1206307692]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Add me string#0365",
+				"time": 1648177613
+			},
+			"steamid": "[U:1:1211539135]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "call them on !add 5",
+				"time": 1649643525
+			},
+			"steamid": "[U:1:1212118625]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Phi1l",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1214369743]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ed664\u202c\r",
+				"time": 1648175772
+			},
+			"steamid": "[U:1:1215201054]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hot Chee GF\u202c\r",
+				"time": 1648179125
+			},
+			"steamid": "[U:1:1215298415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W3t_Willy\u202c\r",
+				"time": 1648518687
+			},
+			"steamid": "[U:1:1215347819]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Idiot Box\u202c\r",
+				"time": 1648434999
+			},
+			"steamid": "[U:1:1215361812]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PurpleCheeto\u202c\r",
+				"time": 1648242186
+			},
+			"steamid": "[U:1:1215369207]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Gamelonk\u202c\r",
+				"time": 1648247609
+			},
+			"steamid": "[U:1:1215485293]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)I teleported bread\u202c\r",
+				"time": 1648430535
+			},
+			"steamid": "[U:1:1215529789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I teleported bread\u202c\r",
+				"time": 1648430447
+			},
+			"steamid": "[U:1:1215557300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "oX_Animal_Xo\u202c\r",
+				"time": 1648324548
+			},
+			"steamid": "[U:1:1215574214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T\u200fails\r",
+				"time": 1648756051
+			},
+			"steamid": "[U:1:1215656418]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Woulou\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1215678230]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hilloo767\u202c\r",
+				"time": 1648247609
+			},
+			"steamid": "[U:1:1215688088]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bananaman2012\u202c\r",
+				"time": 1648513333
+			},
+			"steamid": "[U:1:1215740776]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lenny",
+				"time": 1649205488
+			},
+			"steamid": "[U:1:1215743595]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "steve stevens\u202c\r",
+				"time": 1648572080
+			},
+			"steamid": "[U:1:1215761145]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Holy P3nisman\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1215780853]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A\u200fpok\r",
+				"time": 1648688831
+			},
+			"steamid": "[U:1:1215806193]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Diable\u202c\r",
+				"time": 1648248158
+			},
+			"steamid": "[U:1:1215806524]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M\u200facropeen\r",
+				"time": 1648763631
+			},
+			"steamid": "[U:1:1215809512]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ThomAnus\u202c\r",
+				"time": 1648514029
+			},
+			"steamid": "[U:1:1215834465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SAULE\u200fX20210\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1215851409]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LoliPop? banditcamp.com\u202c\r",
+				"time": 1648429993
+			},
+			"steamid": "[U:1:1215917354]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ramen\u202c\r",
+				"time": 1648247635
+			},
+			"steamid": "[U:1:1215918964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fun\u200ftimeshadow\r",
+				"time": 1648699059
+			},
+			"steamid": "[U:1:1215921943]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "War\u200fmat100\r",
+				"time": 1649556202
+			},
+			"steamid": "[U:1:1215958955]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr. Che\u200fdda\r",
+				"time": 1648755742
+			},
+			"steamid": "[U:1:1215972757]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fre\u200fezerman\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1216011130]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "invader\u202c\r",
+				"time": 1648430062
+			},
+			"steamid": "[U:1:1216013356]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OsseousMut\u200fe\r",
+				"time": 1649385986
+			},
+			"steamid": "[U:1:1216086694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)There just me\u202c\r",
+				"time": 1648519798
+			},
+			"steamid": "[U:1:1216096653]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Saulen\u200f\r",
+				"time": 1648689425
+			},
+			"steamid": "[U:1:1216170226]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the crime skeleton\u202c\r",
+				"time": 1648512615
+			},
+			"steamid": "[U:1:1216200066]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(Sh\u200f) Hats\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1216225484]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "EnderD\u200fragon\r",
+				"time": 1648755710
+			},
+			"steamid": "[U:1:1216313694]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "There just me\u202c\r",
+				"time": 1648519798
+			},
+			"steamid": "[U:1:1216350750]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "t\u200fhis beat go hard\r",
+				"time": 1648688818
+			},
+			"steamid": "[U:1:1216410326]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "'Greey'\u200f\r",
+				"time": 1648687766
+			},
+			"steamid": "[U:1:1216455473]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AydenPlaysgamez\u202c\r",
+				"time": 1648526918
+			},
+			"steamid": "[U:1:1216504284]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The\u200f slayer\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1216515664]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ende\u200frDragon\r",
+				"time": 1648755742
+			},
+			"steamid": "[U:1:1216522860]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Awb\u200fi\r",
+				"time": 1648835199
+			},
+			"steamid": "[U:1:1216577008]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "alka\u202c\r",
+				"time": 1648528249
+			},
+			"steamid": "[U:1:1216639190]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Macrohard\u202c\r",
+				"time": 1648571979
+			},
+			"steamid": "[U:1:1216712002]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "H\u200fappyTwees\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1216959640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hap\u200fpyTwees\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1216978300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FO\u200fXFIRE\r",
+				"time": 1648690043
+			},
+			"steamid": "[U:1:1217021367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Awesomeskull1282\u202c\r",
+				"time": 1648266116
+			},
+			"steamid": "[U:1:1217034986]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "You will be made\u200f useful.\r",
+				"time": 1648756151
+			},
+			"steamid": "[U:1:1217052882]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "h\u200forsie \u10e6\r",
+				"time": 1648688818
+			},
+			"steamid": "[U:1:1217316070]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DarkTheUnknown",
+				"time": 1649384534
+			},
+			"steamid": "[U:1:1217691619]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u266b \u0299 \u1d07 \u0299 \u1d0f \u1d18 007",
+				"time": 1649557049
+			},
+			"steamid": "[U:1:1223412001]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "graboid",
+				"time": 1648947928
+			},
+			"steamid": "[U:1:1224322481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yaeger nichijou",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1226093984]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "504O5042",
+				"time": 1648414360
+			},
+			"steamid": "[U:1:1226198778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "john doe",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1230294052]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OG Fuck Nemo",
+				"time": 1648170842
+			},
+			"steamid": "[U:1:1232054356]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OG Fuck Nemo",
+				"time": 1648239392
+			},
+			"steamid": "[U:1:1232165051]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FrostArticFox",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1240027814]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[\u142fA\u14aa\u142fE] Big Smoke RCE",
+				"time": 1648945937
+			},
+			"steamid": "[U:1:1240585862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[\u142fA\u14aa\u142fE] Big Smoke RCE",
+				"time": 1649384528
+			},
+			"steamid": "[U:1:1241036318]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Big smoke",
+				"time": 1648241867
+			},
+			"steamid": "[U:1:1241273169]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Oswald",
+				"time": 1649454613
+			},
+			"steamid": "[U:1:1243579617]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jungle buddy",
+				"time": 1649640406
+			},
+			"steamid": "[U:1:1246934291]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cracking",
+				"time": 1648570201
+			},
+			"steamid": "[U:1:1247836818]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e49MEGATRONIC\u0e34",
+				"time": 1648174631
+			},
+			"steamid": "[U:1:1253513660]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e48MEGATRONIC\u0e4d",
+				"time": 1648233309
+			},
+			"steamid": "[U:1:1253514675]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4aMEGATRONIC",
+				"time": 1648241794
+			},
+			"steamid": "[U:1:1253609252]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e48EGATRONI\u0e3aC",
+				"time": 1648177576
+			},
+			"steamid": "[U:1:1253618462]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e39",
+				"time": 1648512573
+			},
+			"steamid": "[U:1:1253674942]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRON\u0e4dIC",
+				"time": 1648233321
+			},
+			"steamid": "[U:1:1253728763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e3aGATRON\u0e34IC",
+				"time": 1648178681
+			},
+			"steamid": "[U:1:1253802816]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e34MEGATRONIC",
+				"time": 1648473573
+			},
+			"steamid": "[U:1:1253828140]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e48TR\u0e4aONIC",
+				"time": 1649021208
+			},
+			"steamid": "[U:1:1253837358]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e35TRONIC",
+				"time": 1648238533
+			},
+			"steamid": "[U:1:1253848302]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e4c",
+				"time": 1649639171
+			},
+			"steamid": "[U:1:1253964794]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648168934
+			},
+			"steamid": "[U:1:1253994171]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e34TR\u0e49ONIC",
+				"time": 1648235139
+			},
+			"steamid": "[U:1:1254152845]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e4eRONIC",
+				"time": 1648238537
+			},
+			"steamid": "[U:1:1254194466]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e4aMEGATRONIC",
+				"time": 1648178732
+			},
+			"steamid": "[U:1:1254278622]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEG\u0e48ATRO\u0e3aNIC",
+				"time": 1648435048
+			},
+			"steamid": "[U:1:1254318293]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648233286
+			},
+			"steamid": "[U:1:1254415394]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4cTR\u0e4dONIC",
+				"time": 1649641603
+			},
+			"steamid": "[U:1:1254455763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648242091
+			},
+			"steamid": "[U:1:1254497827]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4aTR\u0e48ONIC",
+				"time": 1648435329
+			},
+			"steamid": "[U:1:1254524478]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4dEGATRONI\u0e4cC",
+				"time": 1648169349
+			},
+			"steamid": "[U:1:1254561804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEG\u0e3aATRONIC",
+				"time": 1648178686
+			},
+			"steamid": "[U:1:1254598942]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRON\u0e38IC",
+				"time": 1648235085
+			},
+			"steamid": "[U:1:1254621390]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e4cGATRON\u0e4dIC",
+				"time": 1648238771
+			},
+			"steamid": "[U:1:1254624748]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATR\u0e4dONIC",
+				"time": 1648175774
+			},
+			"steamid": "[U:1:1254633498]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OM\u0e4aEGATRONI\u0e48C",
+				"time": 1648234603
+			},
+			"steamid": "[U:1:1254648058]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONI\u0e4bC",
+				"time": 1648168948
+			},
+			"steamid": "[U:1:1254655275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo",
+				"time": 1648177617
+			},
+			"steamid": "[U:1:1254663884]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OME\u0e38GATRONIC",
+				"time": 1648435743
+			},
+			"steamid": "[U:1:1254685004]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATR\u0e37ONIC",
+				"time": 1648170708
+			},
+			"steamid": "[U:1:1254716776]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648177610
+			},
+			"steamid": "[U:1:1254880893]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648178888
+			},
+			"steamid": "[U:1:1254962540]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4dTRONIC",
+				"time": 1648235007
+			},
+			"steamid": "[U:1:1254962755]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRO\u0e4eNIC",
+				"time": 1648179058
+			},
+			"steamid": "[U:1:1254964890]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648243711
+			},
+			"steamid": "[U:1:1255086828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4aTR\u0e47ONIC",
+				"time": 1648234694
+			},
+			"steamid": "[U:1:1255109415]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONI\u0e4aC",
+				"time": 1648239353
+			},
+			"steamid": "[U:1:1255112725]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGAT\u0e4bRONIC",
+				"time": 1648167631
+			},
+			"steamid": "[U:1:1255142649]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u271e Furry Messiah \u271e",
+				"time": 1648179069
+			},
+			"steamid": "[U:1:1255177545]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e48MEGATRONIC\u0e4a",
+				"time": 1648244711
+			},
+			"steamid": "[U:1:1255228863]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "O\u0e47MEGATRONIC",
+				"time": 1648324048
+			},
+			"steamid": "[U:1:1255299269]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGATRONIC\u0e4e",
+				"time": 1648243750
+			},
+			"steamid": "[U:1:1255388953]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OMEGA\u0e4cTRONIC",
+				"time": 1648247978
+			},
+			"steamid": "[U:1:1255526982]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "father retired",
+				"time": 1649559305
+			},
+			"steamid": "[U:1:1256421340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hot Chee GF",
+				"time": 1648169367
+			},
+			"steamid": "[U:1:1256583530]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pocket Chee",
+				"time": 1648169560
+			},
+			"steamid": "[U:1:1256698603]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "My son he is sick",
+				"time": 1648240019
+			},
+			"steamid": "[U:1:1256991853]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hypnotikat",
+				"time": 1648516585
+			},
+			"steamid": "[U:1:1257269747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I CANNOT FUCKING",
+				"time": 1648238701
+			},
+			"steamid": "[U:1:1257409833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "k1ngk0gner",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1264575219]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "my pc is off",
+				"time": 1649479160
+			},
+			"steamid": "[U:1:1264603763]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)Gamer Burger AZAFF",
+				"time": 1649643644
+			},
+			"steamid": "[U:1:1266541629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gamer Burger AZAFF",
+				"time": 1649643640
+			},
+			"steamid": "[U:1:1267033688]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)Gamer Burger AZAFF",
+				"time": 1649643646
+			},
+			"steamid": "[U:1:1267934222]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)Gamer Burger AZAFF",
+				"time": 1649635654
+			},
+			"steamid": "[U:1:1268033485]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)Gamer Burger AZAFF",
+				"time": 1649643663
+			},
+			"steamid": "[U:1:1268087602]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Medicine",
+				"time": 1648238669
+			},
+			"steamid": "[U:1:1272293257]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ass",
+				"time": 1649477524
+			},
+			"steamid": "[U:1:1272405374]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Gamer Burger AZAFF",
+				"time": 1649643642
+			},
+			"steamid": "[U:1:1275711220]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo v2 #10",
+				"time": 1649477889
+			},
+			"steamid": "[U:1:1280335636]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo v2 #06",
+				"time": 1648946481
+			},
+			"steamid": "[U:1:1280472269]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck Nemo v2 #04",
+				"time": 1648268214
+			},
+			"steamid": "[U:1:1280558463]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)default bot",
+				"time": 1648611149
+			},
+			"steamid": "[U:1:1282537431]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648519447
+			},
+			"steamid": "[U:1:1282636589]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648247209
+			},
+			"steamid": "[U:1:1282671179]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1648519412
+			},
+			"steamid": "[U:1:1282682791]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(4)default bot",
+				"time": 1649109811
+			},
+			"steamid": "[U:1:1282754388]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1648268418
+			},
+			"steamid": "[U:1:1282785909]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1648518063
+			},
+			"steamid": "[U:1:1282810731]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)default bot",
+				"time": 1649109810
+			},
+			"steamid": "[U:1:1282870731]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1649303530
+			},
+			"steamid": "[U:1:1282929844]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1648518066
+			},
+			"steamid": "[U:1:1283027121]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MACHINE GUN",
+				"time": 1648174502
+			},
+			"steamid": "[U:1:1284825962]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1649305588
+			},
+			"steamid": "[U:1:1296702271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1649205581
+			},
+			"steamid": "[U:1:1297609593]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gamer Burger AZAFF",
+				"time": 1649635699
+			},
+			"steamid": "[U:1:1297630965]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)Gamer Burger AZAFF",
+				"time": 1649635650
+			},
+			"steamid": "[U:1:1297755743]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bunny N1ves",
+				"time": 1649111776
+			},
+			"steamid": "[U:1:1301091021]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "20k hour engi gamer",
+				"time": 1649648612
+			},
+			"steamid": "[U:1:1302357924]"
+		}
+	]
+}
